@@ -1,5 +1,10 @@
 Revision history for Perl extension Date::Christmas.
 
-0.01  Wed Nov 22 19:07:00 2000
+1.00  Wed Nov 22 19:07:00 2000
 	- original version; created by h2xs 1.19
+
+1.01  Sat Dec 02 18:04:00 2000
+	- Added festive language tree
+	- Added prognostications
+	- Added tests
 
