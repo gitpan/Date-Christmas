@@ -9,7 +9,7 @@ require AutoLoader;
 
 @ISA = qw(Exporter AutoLoader);
 @EXPORT = qw(christmasday);
-$VERSION = '1.01';
+$VERSION = '1.02';
 
 sub christmasday {           
    my $y = shift;  
@@ -121,7 +121,7 @@ of the week on which Christmas fell:
  Saturday
  If it come on the Saturday, Winter shall be dark, snow great, 
  fruit plentious, the spring windy, Summer euill, Vintage sparing 
- in many places: Oates shall be deare, Mex waxe sicke, and Bees die.
+ in many places: Oates shall be deare, Men waxe sicke, and Bees die.
  In no Saturday to begin a worke shall be good, except in the course 
  of the Moone alter it: Theft done shall be found, hee that flieth 
  shall turne againe to his owne; those that are sicke, shall long 
@@ -145,6 +145,7 @@ of the week on which Christmas fell:
  GOD JUL 
  BUON ANNO 
  FELIZ NATAL 
+ HYVAA JOULUA
  FELIZ NAVIDAD 
  MERRY CHRISTMAS 
  KALA CHRISTOUGENA 
@@ -158,7 +159,6 @@ of the week on which Christmas fell:
  'N PRETTIG KERSTMIS 
  ONNZLLISTA UUTTA VUOTTA 
  Z ROZHDESTYOM KHRYSTOVYM 
- HYVE<Auml>E<EAuml> JOULUA
  ADOLIG LLAWEN-GOTT NYTTSAR 
  FELIC NADAL-GOJAN KRISTNASKON 
  S NOVYM GODOM-FELIZ ANO NUEVO 

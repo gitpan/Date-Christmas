@@ -7,4 +7,6 @@ Revision history for Perl extension Date::Christmas.
 	- Added festive language tree
 	- Added prognostications
 	- Added tests
-
+1.02  Sun Dec 03 11:18:00 2000
+        - Removed encoding from festive tree
+        - fixed minor spelling error
